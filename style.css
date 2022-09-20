@@ -1,0 +1,150 @@
+h1,h2,h3,h4,h5{
+    text-align: center;
+    
+}
+
+p{
+    text-align: center;
+
+}
+
+
+
+h4{
+    border-bottom: 1px solid black;
+}
+
+
+
+body{
+
+    height: 100%;
+    width: 100%;    
+    padding: 0;
+    margin: 0;
+    overflow-y: scroll;
+    background-color: rgb(154, 209, 145);
+    
+}
+
+
+#menu{
+
+   
+    width: 300px;
+    margin: 150px auto; 
+    text-align: center;
+
+
+}
+
+form{
+    width: 300px;
+    margin: 50px auto;
+}
+
+
+
+a{
+  
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{color: brown;  
+text-decoration:underline;
+
+
+}
+
+
+
+
+
+td{
+	border: 1px solid black;
+}
+
+table{
+
+    width: 300px;
+    margin: 50px auto;
+
+}
+
+    
+td{ 
+    border: 1px solid black;
+    }
+
+#voltar{
+    padding-left: 500px;
+    text-decoration: underline;
+
+}
+
+
+#imagem1{
+    height: 200px;
+    width: 200px;
+    margin: 50px auto;
+    padding-right: 200px;
+    float:right
+
+}
+
+#imagem2{
+    height: 200px;
+    width: 200px;
+    margin: 50px auto;
+    padding-right: 200px;
+    float: right;
+   
+
+}
+
+
+
+#imagem4{
+    height: 200px;
+    width: 200px;
+    margin: 50px auto;
+    padding-right: 200px;
+    float:right;
+   
+}
+
+
+#imagem5{
+    height: 200px;
+    width: 200px;
+    margin: 50px auto;
+    padding-right: 200px;
+    float:right;
+   
+}
+
+
+
+#imagem6{
+    height: 200px;
+    width: 200px;
+    margin: 50px auto;
+    padding-right: 200px;
+    float:right;
+   
+}
+
+
+
+
+#imagem7{
+    height: 200px;
+    width: 200px;
+    margin: 50px auto;
+    padding-right: 200px;
+    float:right;
+   
+}
+
+
